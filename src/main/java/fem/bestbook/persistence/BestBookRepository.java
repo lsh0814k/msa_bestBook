@@ -1,7 +1,7 @@
-package fem.bestbook.config.persistence;
+package fem.bestbook.persistence;
 
-import fem.bestbook.config.domain.model.BestBook;
-import fem.bestbook.config.domain.model.vo.Item;
+import fem.bestbook.domain.model.BestBook;
+import fem.bestbook.domain.model.vo.Item;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

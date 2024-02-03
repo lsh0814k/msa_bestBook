@@ -1,8 +1,7 @@
 package fem.bestbook.domain.model;
 
 import fem.bestbook.ItemFactory;
-import fem.bestbook.config.domain.model.BestBook;
-import fem.bestbook.config.domain.model.vo.Item;
+import fem.bestbook.domain.model.vo.Item;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

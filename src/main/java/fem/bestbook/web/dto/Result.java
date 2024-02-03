@@ -1,4 +1,4 @@
-package fem.bestbook.config.web.dto;
+package fem.bestbook.web.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,6 +1,6 @@
-package fem.bestbook.config.web.dto;
+package fem.bestbook.web.dto;
 
-import fem.bestbook.config.domain.model.BestBook;
+import fem.bestbook.domain.model.BestBook;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;

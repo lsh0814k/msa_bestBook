@@ -1,4 +1,4 @@
-package fem.bestbook.config.domain.model.vo;
+package fem.bestbook.domain.model.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;

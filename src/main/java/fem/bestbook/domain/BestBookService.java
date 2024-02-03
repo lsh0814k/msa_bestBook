@@ -1,8 +1,8 @@
-package fem.bestbook.config.domain;
+package fem.bestbook.domain;
 
-import fem.bestbook.config.domain.model.BestBook;
-import fem.bestbook.config.domain.model.vo.Item;
-import fem.bestbook.config.persistence.BestBookRepository;
+import fem.bestbook.domain.model.BestBook;
+import fem.bestbook.domain.model.vo.Item;
+import fem.bestbook.persistence.BestBookRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

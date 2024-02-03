@@ -1,6 +1,6 @@
-package fem.bestbook.config.domain.model;
+package fem.bestbook.domain.model;
 
-import fem.bestbook.config.domain.model.vo.Item;
+import fem.bestbook.domain.model.vo.Item;
 import lombok.*;
 
 import java.util.UUID;

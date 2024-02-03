@@ -1,9 +1,9 @@
-package fem.bestbook.config.web;
+package fem.bestbook.web;
 
-import fem.bestbook.config.domain.BestBookService;
-import fem.bestbook.config.domain.model.BestBook;
-import fem.bestbook.config.web.dto.BookOutputDto;
-import fem.bestbook.config.web.dto.Result;
+import fem.bestbook.domain.BestBookService;
+import fem.bestbook.domain.model.BestBook;
+import fem.bestbook.web.dto.BookOutputDto;
+import fem.bestbook.web.dto.Result;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

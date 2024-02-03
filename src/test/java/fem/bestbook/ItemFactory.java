@@ -1,6 +1,6 @@
 package fem.bestbook;
 
-import fem.bestbook.config.domain.model.vo.Item;
+import fem.bestbook.domain.model.vo.Item;
 
 public class ItemFactory {
     public static Item create() {
